@@ -1,10 +1,15 @@
-# AI Recipe Generator
+# 🌐 Zion App Network — Interlinks
 
-Personalized meal planning and cooking.
+**ai-recipe-generator** is part of the Zion Tech Group app network (630+ apps).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-health-tracker](https://github.com/Zion-support/ai-health-tracker) · [ai-coach](https://github.com/Zion-support/ai-coach) · [ai-industry-solutions](https://github.com/Zion-support/ai-industry-solutions) · [zion-field-food](https://github.com/Zion-support/zion-field-food)
+- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🗂️ Category: [Industry Platforms](https://github.com/Zion-support/zion-network/blob/main/network/industry-platforms.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps
+- [ai-health-tracker](https://github.com/Zion-support/ai-health-tracker) — wellness insights
+- [ai-language-tutor](https://github.com/Zion-support/ai-language-tutor) — personalized language learning
+- [ai-education-platform](https://github.com/Zion-support/ai-education-platform) — AI-powered tutoring
+- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+
+---
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
