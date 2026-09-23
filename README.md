@@ -1,10 +1,23 @@
 # AI Recipe Generator
 
-Personalized meal planning and cooking assistant.
+Personalized meal planning and cooking assistant. Free app by [Zion Tech Group](https://ziontechgroup.com/).
 
 🚀 **Live app:** https://zion-support.github.io/ai-recipe-generator/
 
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+## Features
+- Recipes from ingredients you have on hand
+- Dietary filters (vegan, gluten-free, keto, allergens)
+- Weekly meal plans with shopping lists
 
-See [NETWORK.md](NETWORK.md) for interlinks to related apps.
+## Related apps
+- [AI Weather Forecast](https://zion-support.github.io/ai-weather-forecast/) — hyperlocal predictions
+- [AI Resume Builder](https://zion-support.github.io/ai-resume-builder/) — CV & cover letters
+- [Zion AI Knowledge Base](https://ziontechgroup.com/zion-ai-knowledge-base/) — enterprise knowledge AI
+
+## Part of the Zion App Network
+- 🗂️ Master directory — [Zion App Network](https://ziontechgroup.com/zion-app-network/) ([source](https://github.com/Zion-support/zion-app-network))
+
+🧰 Tools: https://ziontechgroup.com/tools/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · ✉️ commercial@ziontechgroup.com
+
+---
+© 2026 Zion Tech Group
