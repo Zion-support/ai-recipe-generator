@@ -1,15 +1,18 @@
-# 🌐 Zion App Network — Interlinks
+# AI Recipe Generator — Part of the Zion AI App Network
 
-**ai-recipe-generator** is part of the Zion Tech Group app network (630+ apps).
+Live app: https://zion-support.github.io/ai-recipe-generator/
 
-- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Industry Platforms](https://github.com/Zion-support/zion-network/blob/main/network/industry-platforms.md)
+## 🔗 Explore the network
+- 🏠 Homepage: https://ziontechgroup.com/
+- 🌐 App Network hub: https://ziontechgroup.com/zion-app-network/ · [GitHub hub](https://github.com/Zion-support/zion-app-network)
+- 🧰 All tools: https://ziontechgroup.com/tools/
+- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Free discovery call: https://ziontechgroup.com/discovery/
 
 ## Related apps
-- [ai-health-tracker](https://github.com/Zion-support/ai-health-tracker) — wellness insights
-- [ai-language-tutor](https://github.com/Zion-support/ai-language-tutor) — personalized language learning
-- [ai-education-platform](https://github.com/Zion-support/ai-education-platform) — AI-powered tutoring
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+- [AI Social Manager](https://ziontechgroup.com/ai-social-manager/)
+- [AI Automated Booking](https://ziontechgroup.com/ai-automated-booking/)
+- [AI Customer Experience Hub](https://ziontechgroup.com/ai-customer-experience-hub/)
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+© 2026 Zion Tech Group · https://ziontechgroup.com/
